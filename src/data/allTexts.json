@@ -1,0 +1,215 @@
+[
+    {
+        "language": {
+            "ru": {
+                "header": {
+                    "redHeadline": "Заказ Деда Мороза",
+                    "headline": "в Берлине и окрестностях!",
+                    "subHeadline": "Вы хотите закатать Деда Мороза на дом в Берлине? Тогда вы попали по адресу! Мы расскажем вам, где можно заказать Деда Мороза на дом."
+                },
+                "aboutUs": {
+                    "headline": "Где можно заказать Деда Мороза в Новый год?",
+                    "text": "До Нового года остаются считанные недели. Самое время заказывать Деда Мороза на дом, чтобы порадовать детей в столице Германии! Один вопрос остается - где в округе найти подходящего артиста который оживит сказочного героя? Найти артиста, готовый исполнит роль Деда Мороза, можно в соцсетях, с помощью сайтов бесплатных объявлений или на сайтах домов культуры. Но зачем долго искатй в интернете и тратить на это время? Мы предоставляем слугу по вызову профессионального Деда Мороза на дом в Берлине и обещаем вам, что ваши детишки будут в восторге от нашего поздравления!",
+                    "headline2": "Кто мы такие?",
+                    "text2": "Всё началось с простого выступления молодого дедушки на Новый год для своей любимой внучки. Выбор Дедушек Морозов в Берлине и его окрестностях не велик, и дедушка вспомнил, что он в молодости был артист!С большим вдохновением взялся за подготовку к празднику. Выступление было захватывающим. Удовольствие получили как дети, так взрослые! Это и было началом карьеры детского аниматора."
+                },
+                "aboutDedMoroz": {
+                    "headline": "В главной роли — Дедушка Мороз.",
+                    "subHeadline": "Знаете ли вы, кто такой Дедушка Мороз?",
+                    "cardTitle": "Дед Мороз Иванович",
+                    "text": "Мы думаем, что любой ребёнок сможет вам сказать, кто такой Дедушка Мороз. Но знаете ли вы его историю? Кто он, где и когда родился? Ничего если не знаете, мы вам коротко расскажем главные факты о Дедушке Морозе. Свое отчества 'Иванович' Дед Мороз получил благодаря русскому писателю Владимиру Одоевскому. В 1840 году Одоевский опубликовал сказку «Мороз Иванович» по мотивам русских народных сказок. Одоевский превратил капризного и страшного Бога из сказок в цивилизованного, респектабельного и всеми любимого детьми персонажа."
+                },
+                "program": {
+                    "headline": "Чем мы будем заниматься?",
+                    "subHeadline": "Новый год должен быть праздником, а праздник не бывает без игр, конкурсов и подарков. Мы подготовили для вас полноценное новогоднее представление длительностью 1 час.",
+                    "cards": {
+                        "card01": {
+                            "badge": "15 МИН",
+                            "headline": "Новогодний сюрприз",
+                            "subHeadline": "Приход Деда Мороза к вам домой, стихотворное поздравление, вручение подарка, фото на память"
+                        },
+                        "card02": {
+                            "badge": "1 ЧАС",
+                            "headline": "Новогоднее чудо",
+                            "subHeadline": "Приход Деда Мороза, Стихотворное приветствие, хоровод, стихи, песни, танцы в исполнении детей, вручение подарков, фото на память"
+                        },
+                        "card03": {
+                            "badge": "30 МИН",
+                            "headline": "Зимняя радость",
+                            "subHeadline": "Приход Деда Мороза, Стихотворное приветствие, хоровод, стихи, песни, танцы в исполнении детей, вручение подарков, фото на память"
+                        }
+                    },
+                    "badge": "Естественно, мы можем обсудить особые пожелания",
+                    "button": "запрос"
+                },
+                "whyWe": {
+                    "headline": "Почему мы?",
+                    "subHeadline": "Мы любим детей, то что мы делаем, приходим вовремя и нам доставляет огромное удовольствие радовать и удивлять ваших детей. Новый год без Деда Мороза — это не новый год. У нас доступные цены. Каждый год мы создаем новый, эксклюзивный сценарий для детей разного возраста. Сказочную атмосферу на празднике гарантируем!",
+                    "cards": {
+                        "card01": {
+                            "headline": "Мы делаем все с любовью",
+                            "subHeadline": "Вкладываем душу в наше творчество, а тот, кто делает свое дело с любовью и страстью, просто обязан делать это хорошо."
+                        },
+                        "card02": {
+                            "headline": "Мы пунктуальны",
+                            "subHeadline": "Этот заголовок может показаться немного странным. Пунктуальность к сожалению не норма. Мы будем у вас в назначенное время!"
+                        },
+                        "card03": {
+                            "headline": "У нас реальные, доступные цены.",
+                            "subHeadline": "Цены всегда должно быть справедливыми и соответствовать тому за что платишь. При этом ни при каких обстоятельствах качество не должно пострадать."
+                        }
+                    }
+                },
+                "contact": {
+                    "headline": "Чего вы ждете? Пишите прямо сейчас.",
+                    "subHeadline": "Мы с нетерпением будем ждать вашего сообщения и постараемся ответить на него как можно скорее."
+                },
+                "form": {
+                    "headline": "Не стесняйтесь и отправьте нам запрос!",
+                    "name": {
+                        "label": "Имя и фамилия",
+                        "placeholder": "Пишем имя и фамилию"
+                    },
+                    "date": {
+                        "label": "Дата выступления",
+                        "placeholder": "Пишем время и число"
+                    },
+                    "number": {
+                        "label": "Номер телефона",
+                        "placeholder": "Пишем номер телефона"
+                    },
+                    "mail": {
+                        "label": "Электронная почта",
+                        "placeholder": "Пишем сюда E-mail"
+                    },
+                    "message": {
+                        "label": "Что еще вы хотели бы нам сказать?",
+                        "placeholder": "Вопросы, комментарии или вещи, которые нам нужно знать..."
+                    },
+                    "useContact": "или наберите",
+                    "button": "Давайте, запросы ничего не стоят!",
+                    "whatsapp": "Вы также можете с нами связаться через WhatsApp. Просто нажмите для этого сюда."
+                },
+                "footer": {
+                    "headline": "Большое спасибо!",
+                    "subHeadline": "До встречи на празднике!",
+                    "heypicks_1": "Разработано с ",
+                    "heypicks_2": "в сотрудничестве с"
+                },
+                "navbar": {
+                    "btn_1": "запрос",
+                    "btn_2": {
+                        "label": "Язык",
+                        "el1": "русский",
+                        "el2": "deutsch"
+                    }   
+                }
+            },
+            "de": {
+                "header": {
+                    "redHeadline": "Hallöchen",
+                    "headline": "Väterchen Frost!",
+                    "subHeadline": "Sie sind auf der Suche nach dem perfekten russischsprachigen Auftritt von Väterchen Frost auf in Berlin? Dann sind Sie bei uns genau richtig!"
+                },
+                "aboutUs": {
+                    "headline": "Wo kann man einen russischsprachigen Ded Moroz in Berlin nach Hause bestellen?",
+                    "text": "Bis zum Neujahr ist es nicht mehr lang. Es wird an der Zeit, dass man den Ded Moroz zu sich nach Hause einlädt. Eine Frage bleibt jedoch - wo kann man denn einen Ded Moroz in Berlin und Umland bestellen? Es gibt eine Vielzahl an Online-Anzeigen und auch die sozialen Netzwerke sind eine gute Adresse. Doch warum sollte man dafür seine wertvolle Zeit verschwenden, wenn es einfacher geht? Wir bieten Ihnen die Möglichkeit einen professionellen Ded Moroz zu sich nach Hause in Berlin und Umland zu rufen und versprechen Ihnen, dass die Kinder begeistert sein werden.",
+                    "headline2": "Wer wir sind?",
+                    "text2": "Angefangen hat es damals mit einem spontanen Auftritt des jung gebliebenen Opas zu einem Neujahr der Enkeltochter. Das Angebot an Väterchen Frosts in und um Berlin war nicht gerade üppig und so musste der Opa selber ran. Der Opa war außer sich vor Freude und auch die Resonanz der Kinder und der Eltern war atemberaubend. Somit lässt sich dieses Ereignis als Anfang einer Karriere als Kinderanimateur bezeichnen. Detkam.de hat das Licht der Welt erblickt und begeistert seitdem viele Kinder"
+                    
+                },
+                "aboutDedMoroz": {
+                    "headline": "In der Hauptrolle... Väterchen Frost.",
+                    "subHeadline": "Aber wer ist Väterchen Frost überhaupt?",
+                    "cardTitle": "Väterchen Frost",
+                    "text": "Väterchen Frost (auf russisch Дед Мороз [Ded Moroz]) heißt wörtlich übersetzt Opa Frost und ist das Pendant zum westlichen Weihnachtsmann. Auch wenn sich beide Figuren sehr ähneln, gibt es auch sehr viele Unterschiede. So wird der Schlitten von Väterchen Frost nicht von Renntieren, sondern von drei weißen Pferden gezogen, nämlich von Dezember, Januar und Februar, was eine sehr gelungene Brücke zum Winter schafft, denn anders als der Weihnachtsmann, ist Väterchen Frost nicht nur für die Geschenke zuständig, sondern generell für den Winter und die Winterzeit. Er wohnt mit seiner Enkelin, der Schneeflöckchen (auf russisch Снегурочка [Snegurotschka]) im Norden und besitzt einen Zauberstab, welcher bei der kleinsten Berührung alles erfrieren lässt."
+                },
+                "program": {
+                    "headline": "Was haben wir mit euch bzw. den Kindern vor?",
+                    "subHeadline": "Es soll ein Fest werden und bei einem russischen Fest dürfen Spiele nicht fehlen. Wir haben eine Reihe von möglichen Spielen vorbereitet, die den Kindern garantiert gefallen werden. Es sind sowohl Interaktionsspiele als auch Rätselspiele dabei, denn jedes Kind hat unterschiedliche Präferenzen. Wir haben für Sie eine tolle Neujahrsvorstellung vorbereitet, die bis zu einer Stunde dauern wird.",
+                    "cards": {
+                        "card01": {
+                            "badge": "15 min",
+                            "headline": "Neujahrsüberraschung",
+                            "subHeadline": "Väterchen Frost kommt zu Ihnen nach Hause, gratuliert, beschenkt alle und Sie haben anschließend die Möglichkeit Erinnerungsfotos zu machen."
+                        },
+                        "card02": {
+                            "badge": "1 h",
+                            "headline": "Neujahrswunder",
+                            "subHeadline": "Väterchen Frost kommt zu Ihnen nach Hause, gratuliert und beschenkt alle. Es werden mit den Kindern verschiedene Interaktionsspiele gespielt und Gedichte vorgetragen. Sie haben anschließend die Möglichkeit Erinnerungsfotos zu machen."
+                        },
+                        "card03": {
+                            "badge": "30 min",
+                            "headline": "Winterfreude",
+                            "subHeadline": "Väterchen Frost kommt zu Ihnen nach Hause, gratuliert und beschenkt alle. Es werden mit den Kindern verschiedene Interaktionsspiele gespielt und Gedichte vorgetragen. Sie haben anschließend die Möglichkeit Erinnerungsfotos zu machen."
+                        }
+                    },
+                    "badge": "Und selbstverständlich können wir über Extrawünsche sprechen",
+                    "button": "anfragen"
+                },
+                "whyWe": {
+                    "headline": "Warum wir?",
+                    "subHeadline": "Wir lieben Kinder und das was wir tun, sind pünktlich und es bereitet uns große Freude, Ihre Kinder zum Lachen zu bringen und zu überraschen. Neujahr ohne Väterchen Frost ist in den russischen Kreisen kein Neujahr. Jedes Jahr erstellen wir ein neues, exklusives Drehbuch für Kinder jeden Alters. Wir garantieren eine fabelhafte Atmosphäre!",
+                    "cards": {
+                        "card01": {
+                            "headline": "Wir machen alles mit Liebe",
+                            "subHeadline": "Wir stecken unser Herzblut in die Unterhaltung der Kinder. Un seihen wir ehrlich - eine Leidenschaft zu einer Tätigkeit ist die perfekte Garantie für den Erfolg."
+                        },
+                        "card02": {
+                            "headline": "Wir sind pünktlich",
+                            "subHeadline": "Dieser Punkt mag jetzt etwas eigenartig klingen und doch wird dieser Punkt oft ernst genommen. Wir werden pünktlich sein."
+                        },
+                        "card03": {
+                            "headline": "Wir haben faire Preise",
+                            "subHeadline": "Die Preisgestaltung muss immer fair sein und die Qualität darf unter keinen Umständen darunter leiden. Unsere Preise werden Sie überzeugen."
+                        }
+                    }
+                },
+                "contact": {
+                    "headline": "Worauf warten? Jetzt kontaktieren.",
+                    "subHeadline": "Wir freuen auf Ihre Nachricht und werden diese schnellstmöglich beantworten."
+                },
+                "form": {
+                    "headline": "Trauen Sie sich und schicken uns eine Anfrage!",
+                    "name": {
+                        "label": "Vor- und Nachname",
+                        "placeholder": "Vor- und Nachname"
+                    },
+                    "date": {
+                        "label": "Datum und Uhrzeit",
+                        "placeholder": "Datum und Uhrzeit"
+                    },
+                    "number": {
+                        "label": "Telefonnummer",
+                        "placeholder": "Telefonnummer"
+                    },
+                    "mail": {
+                        "label": "E-Mail Adresse",
+                        "placeholder": "E-Mail Adresse"
+                    },
+                    "message": {
+                        "label": "Möchten Sie uns noch etwas mitteilen?",
+                        "placeholder": "Fragen, Kommentare und Dinge, die wir wissen sollten..."
+                    },
+                    "useContact": "oder wählen Sie",
+                    "button": "Na los, eine Anfrage kostet nichts!",
+                    "whatsapp": "Sie können sich mit uns ebenfalls über Whatsapp in Verbindung setzen. Klicken Sie dazu einfach auf diese Fläche."
+                },
+                "footer": {
+                    "headline": "Vielen Dank!",
+                    "subHeadline": "Wir sehen uns auf der Feier!",
+                    "heypicks_1": "gestaltet und entwickelt mit ",
+                    "heypicks_2": "von"
+                },
+                "navbar": {
+                    "btn_1": "Anfrage",
+                    "btn_2": {
+                        "label": "Sprache",
+                        "el1": "русский",
+                        "el2": "deutsch"
+                    } 
+                }
+            }
+        }
+    }
+]
