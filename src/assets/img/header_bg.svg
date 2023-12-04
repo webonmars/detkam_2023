@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1276px" height="395px" viewBox="0 0 1276 395" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="58.5262299%" y1="24.3611729%" x2="58.5262299%" y2="93.67472%" id="linearGradient-1">
+            <stop stop-color="#F6FAFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="neujahr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-5" fill="url(#linearGradient-1)">
+            <path d="M0,395 C2.20237758,395 -14.2022508,289.271152 84.0843455,218.784189 C182.370942,148.297225 298.873134,48.0519896 417.335734,95.7045737 C535.798335,143.357158 726.50754,195.906338 858.562973,115.649387 C990.618406,35.3924362 1054.47327,-14.6156172 1318,3.825164 L1318,395 L0,395 Z" id="Fill-1" transform="translate(659.000000, 197.500000) scale(-1, -1) translate(-659.000000, -197.500000) "></path>
+        </g>
+    </g>
+</svg>
